@@ -1,0 +1,6 @@
+﻿App.Debug.config
+App.Release.config
+.vs/
+bin/
+obj/
+packages/
